@@ -14,7 +14,8 @@ gem 'bootstrap-sass', '~> 3.3.1'
 group :production do
     gem 'pg'
     gem 'rails_12factor'
-endgit
+end
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -47,4 +48,3 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
